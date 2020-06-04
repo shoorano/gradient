@@ -8,8 +8,8 @@ var clipboard = document.getElementById("clipboard");
 
 /*
 THINGS TO ADD:
-- Add a text box around the color string generated.
-- Add a copy button to copy the style string.
+- Add a text box around the color string generated. [Done]
+- Add a copy button to copy the style string. [Reaserch how]
 */
 
 
